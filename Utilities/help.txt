@@ -1,0 +1,18 @@
+/start - Meet The Archivist
+/lies - The Archivist loves to smite liars
+/sticker - The Archivist will send you a random sticker
+/quiz - The Archivist will test your knowledge
+/chill - The Archivist needs a break
+/audio - The Archivist will let you choose which audio to receive
+
+############################
+
+The Archivist will not allow swearing in his institute, try at your own risk
+
+The Archivist is very suspicios about links that you send him
+
+The Archivist can help you with your existential questions, just say "Archivist" and ask the question with "?" at the end
+
+If you say a word that's also a sticker, The Archivist will know and send the relative sticker
+
+If you send too many messages, the Archivist might go crazy...
